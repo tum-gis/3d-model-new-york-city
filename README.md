@@ -6,6 +6,9 @@ All data transformations and manipulations were performed using the ‘[Feature 
 
 More detailed information can be found on [the project's website](https://www.gis.bgu.tum.de/en/projects/new-york-city-3d/). 
 
+## Attention 
+The Workspaces were generated using FME 2016.1. Opening the Workspaces in different Versions of FME might lead to errors. 
+
 ## Content
 * **FME Workspaces**
   
@@ -16,8 +19,18 @@ More detailed information can be found on [the project's website](https://www.gi
   This file contains an easy to follow tourguide showing how to create CityGML compliant data from Open Data Shapefiles provided by the New York City Open Data Portal using the Software FME. The data used in this tutorial is also made available with this download.
   
 ## Documentation
-XYZ  
-  
+A detailed documentation on how these Workspaces were used in the course of generating this city model is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
+ 
+| FME Workspace Nr.   |Short description|
+| :-----------: | :----------------------------------|
+| 1 |Add additional attributes to the street centerline data generated in project phase 1. Information from different datasets is merged using corresponding attributes such as 'segmentID' or 'gml_name'.|
+| 2 |Centerlines representing complex interchanges of motorway junctions are filtered out.|
+| 3 |A lod0Network is created using the centerlines generated in (1) and adding sidewalk centerlines as 'Track' features.|
+| 4 |Data from the Planimetric Database is manipulated semantically and geometrically. Relevant information contained within the centerline data (generated in 1) is tranferred using a spatial correlation method.|
+| 5 |Suitable textures are added to each object generated in (4).|
+| 6 |An advanced data structure is implemented by creating 'TrafficAreas' as well as 'AuxiliaryTrafficAreas' and assigning these objects to corresponding 'Road', 'Track' and 'Square' features.| 
+| 7 |The output from (6) is textured and extruded to 3D objects.| 
+ 
 ## Software
 **Feature Manipulation Engine (FME)**
 

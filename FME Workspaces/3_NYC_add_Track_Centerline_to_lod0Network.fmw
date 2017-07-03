@@ -5,7 +5,7 @@
 #    Command-line to run this workspace:
 #    
 #    
-#    "C:\Program Files\FME\fme.exe" "E:\New York City\FME Workspaces for GitHub\3_NYC_add_Track_Centerline_to_lod0Network.fmw"
+#    "C:\Program Files\FME\fme.exe" "C:\Users\cbeil\Documents\GitHub\Test_NYC_Model\FME Workspaces\3_NYC_add_Track_Centerline_to_lod0Network.fmw"
 #          --SourceDataset_CITYGML "Y:\TUM Geoinformatik\City Model NYC\Datengrundlage\Mittelachsen CityGML\Streetspace_LoD0.gml"
 #          --SourceDataset_ESRISHAPE_3 "C:\Users\cbeil\Downloads\Bike Routes\geo_export_42d3005a-506a-4ab1-8aa6-8e3ba879dbaa.shp"
 #          --DestDataset_CITYGML "E:\New York City\Output\lod0Network_Road&Track_NYC.gml"
@@ -13,51 +13,51 @@
 #          --SourceDataset_CITYGML_3 "E:\TUM Geoinformatik\City Model NYC\Datengrundlage\Planimetrics\Sidewalk Centerline\geo_export_02d686d9-8957-4f97-864a-f01b1aa3778d.shp"
 #    
 #    
-#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#!   FME_STROKE_MAX_DEVIATION="0"
-#!   FME_DOCUMENT_GUID="48ecbd8a-d7d7-4a53-be2e-6100cccd91b6"
-#!   USE_MARKDOWN=""
-#!   BEGIN_PYTHON=""
-#!   SOURCE="NONE"
-#!   FME_DOCUMENT_PRIORGUID="124faa26-7e30-446f-9047-2568c4d4b04f,716e22db-705e-459d-b208-55be07df3f63,7097115b-029b-4953-8791-f70d65c6230a,a39e2181-ce42-4305-ab47-2f0402c1dd7e,d2213cd8-bd87-449d-bf52-5c6485373f4f,9acb0e82-67da-4b4c-8fc0-6380bfa44dfe,3bea641e-4642-490f-a757-bf649cb9194b,3a53044a-a423-4d6d-ad74-7e1e7d5f9aad,dab06591-862e-4cfa-aca7-9ae67e913548"
-#!   BEGIN_TCL=""
-#!   END_TCL=""
-#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
-#!   DESCRIPTION=""
-#!   MARKDOWN_USAGE=""
-#!   WORKSPACE_VERSION="1"
-#!   DESTINATION="NONE"
-#!   CATEGORY=""
-#!   USAGE=""
-#!   LOG_MAX_RECORDED_FEATURES="200"
-#!   DOC_EXTENTS="5360.29 2279.65"
-#!   MAX_LOG_FEATURES="200"
-#!   SHOW_INFO_NODES="true"
 #!   MARKDOWN_DESCRIPTION=""
+#!   END_TCL=""
 #!   ZOOM_SCALE="100"
-#!   HISTORY=""
-#!   LAST_SAVE_DATE="2017-06-02T09:48:25"
-#!   FME_REPROJECTION_ENGINE="FME"
-#!   SOURCE_ROUTING_FILE=""
-#!   ATTR_TYPE_ENCODING="SDF"
-#!   FME_SERVER_SERVICES=""
-#!   FME_BUILD_NUM="17288"
-#!   LOG_FILE=""
 #!   TERMINATE_REJECTED="NO"
-#!   TITLE=""
-#!   DOC_TOP_LEFT="-153.127 -2140.65"
-#!   PYTHON_COMPATIBILITY="27"
-#!   REDIRECT_TERMINATORS="NONE"
-#!   WARN_INVALID_XFORM_PARAM="Yes"
-#!   END_PYTHON=""
-#!   VIEW_POSITION="-584.381 525.005"
-#!   LAST_SAVE_BUILD="FME(R) 2017.0.1.0 (20170428 - Build 17288 - WIN64)"
-#!   PASSWORD=""
-#!   FME_GEOMETRY_HANDLING="Enhanced"
-#!   DESTINATION_ROUTING_FILE=""
-#!   SHOW_ANNOTATIONS="true"
-#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   DOC_EXTENTS="5360.29 2279.65"
+#!   SHOW_INFO_NODES="true"
+#!   BEGIN_TCL=""
+#!   SOURCE="NONE"
 #!   IGNORE_READER_FAILURE="No"
+#!   EXPLICIT_BOOKMARK_ORDER="false"
+#!   END_PYTHON=""
+#!   FME_REPROJECTION_ENGINE="FME"
+#!   REDIRECT_TERMINATORS="NONE"
+#!   LAST_SAVE_BUILD="FME(R) 2017.0.1.0 (20170428 - Build 17288 - WIN64)"
+#!   MAX_LOG_FEATURES="200"
+#!   SOURCE_ROUTING_FILE=""
+#!   VIEW_POSITION="-596.881 759.383"
+#!   BEGIN_PYTHON=""
+#!   LOG_MAX_RECORDED_FEATURES="200"
+#!   FME_GEOMETRY_HANDLING="Enhanced"
+#!   FME_DOCUMENT_GUID="727eb587-f624-4c3b-8919-8201582058ee"
+#!   FME_BUILD_NUM="17288"
+#!   WORKSPACE_VERSION="1"
+#!   PYTHON_COMPATIBILITY="27"
+#!   CATEGORY=""
+#!   TITLE=""
+#!   DESTINATION="NONE"
+#!   FME_STROKE_MAX_DEVIATION="0"
+#!   SHOW_ANNOTATIONS="true"
+#!   LOG_FILE=""
+#!   USE_MARKDOWN=""
+#!   FME_SERVER_SERVICES=""
+#!   USAGE=""
+#!   DOC_TOP_LEFT="-153.127 -2140.65"
+#!   WARN_INVALID_XFORM_PARAM="Yes"
+#!   HISTORY=""
+#!   DESCRIPTION=""
+#!   MULTI_WRITER_DATASET_ORDER="BY_ID"
+#!   MARKDOWN_USAGE=""
+#!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#!   LAST_SAVE_DATE="2017-07-03T17:08:39"
+#!   FME_DOCUMENT_PRIORGUID="124faa26-7e30-446f-9047-2568c4d4b04f,716e22db-705e-459d-b208-55be07df3f63,7097115b-029b-4953-8791-f70d65c6230a,a39e2181-ce42-4305-ab47-2f0402c1dd7e,d2213cd8-bd87-449d-bf52-5c6485373f4f,9acb0e82-67da-4b4c-8fc0-6380bfa44dfe,3bea641e-4642-490f-a757-bf649cb9194b,3a53044a-a423-4d6d-ad74-7e1e7d5f9aad,dab06591-862e-4cfa-aca7-9ae67e913548,48ecbd8a-d7d7-4a53-be2e-6100cccd91b6"
+#!   DESTINATION_ROUTING_FILE=""
+#!   ATTR_TYPE_ENCODING="SDF"
+#!   PASSWORD=""
 #! >
 #! <DATASETS>
 #! <DATASET
@@ -73,7 +73,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="multi_reader_id xml_int32 citygml_wrap_mode xml_char(16) citygml_prefer_world_file xml_boolean citygml_ambient_intensity xml_real64 citygml_transformation_matrix xml_buffer fme_sweep_angle xml_real64 fme_rotation xml_real64 multi_reader_type xml_char(50) fme_feature_type xml_char(50) fme_fill_color xml_char(50) citygml_library_object xml_buffer fme_basename xml_char(50) multi_reader_keyword xml_char(50) citygml_target{}.coordinate_list{}.coordinates xml_buffer citygml_is_front xml_boolean citygml_mime_type xml_buffer citygml_diffuse_color xml_buffer fme_dataset xml_char(50) citygml_image_uri xml_buffer citygml_emissive_color xml_buffer gml_parent_id xml_buffer gml_id xml_buffer fme_secondary_axis xml_real64 citygml_target xml_buffer citygml_orientation_matrix xml_buffer citygml_is_smooth xml_boolean citygml_texture_type xml_char(16) fme_geometry fme_char(50) citygml_lod_name xml_buffer citygml_transparency xml_real64 citygml_border_color xml_buffer fme_type xml_char(50) citygml_target{}.uri xml_buffer fme_text_string xml_char(50) citygml_specular_color xml_buffer multi_reader_full_id xml_int32 citygml_theme xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer citygml_level_of_detail xml_ubyte fme_primary_axis xml_real64 citygml_shininess xml_real64 fme_color xml_char(50) fme_start_angle xml_real64 citygml_target{}.coordinate_list{}.ring xml_buffer fme_text_size xml_real64"
+#!   EXPOSABLE_ATTRS="citygml_transparency xml_real64 gml_id xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer fme_rotation xml_real64 citygml_image_uri xml_buffer citygml_ambient_intensity xml_real64 citygml_target xml_buffer citygml_wrap_mode xml_char(16) fme_primary_axis xml_real64 citygml_target{}.uri xml_buffer multi_reader_type xml_char(50) citygml_level_of_detail xml_ubyte fme_start_angle xml_real64 citygml_lod_name xml_buffer citygml_texture_type xml_char(16) fme_feature_type xml_char(50) citygml_specular_color xml_buffer multi_reader_full_id xml_int32 gml_parent_id xml_buffer fme_secondary_axis xml_real64 fme_sweep_angle xml_real64 fme_geometry fme_char(50) fme_dataset xml_char(50) citygml_is_smooth xml_boolean citygml_emissive_color xml_buffer citygml_prefer_world_file xml_boolean multi_reader_id xml_int32 citygml_diffuse_color xml_buffer citygml_border_color xml_buffer citygml_library_object xml_buffer citygml_orientation_matrix xml_buffer citygml_shininess xml_real64 fme_color xml_char(50) citygml_target{}.coordinate_list{}.ring xml_buffer fme_type xml_char(50) multi_reader_keyword xml_char(50) fme_basename xml_char(50) citygml_mime_type xml_buffer fme_fill_color xml_char(50) citygml_transformation_matrix xml_buffer citygml_is_front xml_boolean fme_text_string xml_char(50) citygml_theme xml_buffer fme_text_size xml_real64 citygml_target{}.coordinate_list{}.coordinates xml_buffer"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -82,16 +82,20 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE_OR_URL"
 #!   GENERATE_FME_BUILD_NUM="16716"
-#!   MIN_FEATURES=""
-#!   FEATURE_TYPES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   COORDSYS=""
 #!   MAX_FEATURES=""
 #!   START_FEATURE=""
-#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MIN_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a name for the CityGML file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="CityGML file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
@@ -100,10 +104,6 @@
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the CityGML file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="CityGML file"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -119,7 +119,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="multi_reader_id long fme_fill_color char(50) fme_rotation double fme_basename char(50) fme_start_angle double fme_text_string char(50) fme_dataset char(50) fme_text_size double fme_color char(50) multi_reader_type char(50) multi_reader_keyword char(50) fme_type char(50) SHAPE_GEOMETRY char(50) fme_primary_axis double fme_sweep_angle double fme_secondary_axis double fme_geometry fme_char(50) shape_geometry_error{} char(254) fme_feature_type char(50) shape_measures char(254) multi_reader_full_id long"
+#!   EXPOSABLE_ATTRS="SHAPE_GEOMETRY char(50) fme_start_angle double fme_fill_color char(50) multi_reader_type char(50) fme_type char(50) fme_primary_axis double fme_geometry fme_char(50) fme_feature_type char(50) multi_reader_full_id long multi_reader_id long fme_dataset char(50) fme_secondary_axis double fme_text_size double fme_rotation double fme_sweep_angle double multi_reader_keyword char(50) fme_color char(50) shape_measures char(254) fme_text_string char(50) fme_basename char(50) shape_geometry_error{} char(254)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="INDEX"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -128,16 +128,24 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILEDIR"
 #!   GENERATE_FME_BUILD_NUM="16716"
-#!   MIN_FEATURES=""
-#!   FEATURE_TYPES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   COORDSYS=""
 #!   MAX_FEATURES=""
 #!   START_FEATURE=""
-#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MIN_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a folder for the Esri Shapefile"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Shapefile1"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="shp file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
@@ -148,20 +156,12 @@
 #!   VALUE="ESRISHAPE_IN_SEARCH_ENVELOPE_MINX ESRISHAPE_IN_SEARCH_ENVELOPE_MINY ESRISHAPE_IN_SEARCH_ENVELOPE_MAXX ESRISHAPE_IN_SEARCH_ENVELOPE_MAXY ESRISHAPE_IN_CLIP_TO_ENVELOPE SEARCH_ENVELOPE_COORDINATE_SYSTEM ESRISHAPE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Shapefile1"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="DEFAULT_GEOMETRY_TYPE"
 #!   VALUE="shape_first_feature"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the Esri Shapefile(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="shp file"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -177,7 +177,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="multi_reader_id xml_int32 citygml_wrap_mode xml_char(16) citygml_prefer_world_file xml_boolean citygml_ambient_intensity xml_real64 citygml_transformation_matrix xml_buffer fme_sweep_angle xml_real64 fme_rotation xml_real64 multi_reader_type xml_char(50) fme_feature_type xml_char(50) fme_fill_color xml_char(50) citygml_library_object xml_buffer fme_basename xml_char(50) multi_reader_keyword xml_char(50) citygml_target{}.coordinate_list{}.coordinates xml_buffer citygml_is_front xml_boolean citygml_mime_type xml_buffer citygml_diffuse_color xml_buffer fme_dataset xml_char(50) citygml_image_uri xml_buffer citygml_emissive_color xml_buffer gml_parent_id xml_buffer gml_id xml_buffer fme_secondary_axis xml_real64 citygml_target xml_buffer citygml_orientation_matrix xml_buffer citygml_is_smooth xml_boolean citygml_texture_type xml_char(16) fme_geometry fme_char(50) citygml_lod_name xml_buffer citygml_transparency xml_real64 citygml_border_color xml_buffer fme_type xml_char(50) citygml_target{}.uri xml_buffer fme_text_string xml_char(50) citygml_specular_color xml_buffer multi_reader_full_id xml_int32 citygml_theme xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer citygml_level_of_detail xml_ubyte fme_primary_axis xml_real64 citygml_shininess xml_real64 fme_color xml_char(50) fme_start_angle xml_real64 citygml_target{}.coordinate_list{}.ring xml_buffer fme_text_size xml_real64"
+#!   EXPOSABLE_ATTRS="citygml_transparency xml_real64 gml_id xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer fme_rotation xml_real64 citygml_image_uri xml_buffer citygml_ambient_intensity xml_real64 citygml_target xml_buffer citygml_wrap_mode xml_char(16) fme_primary_axis xml_real64 citygml_target{}.uri xml_buffer multi_reader_type xml_char(50) citygml_level_of_detail xml_ubyte fme_start_angle xml_real64 citygml_lod_name xml_buffer citygml_texture_type xml_char(16) fme_feature_type xml_char(50) citygml_specular_color xml_buffer multi_reader_full_id xml_int32 gml_parent_id xml_buffer fme_secondary_axis xml_real64 fme_sweep_angle xml_real64 fme_geometry fme_char(50) fme_dataset xml_char(50) citygml_is_smooth xml_boolean citygml_emissive_color xml_buffer citygml_prefer_world_file xml_boolean multi_reader_id xml_int32 citygml_diffuse_color xml_buffer citygml_border_color xml_buffer citygml_library_object xml_buffer citygml_orientation_matrix xml_buffer citygml_shininess xml_real64 fme_color xml_char(50) citygml_target{}.coordinate_list{}.ring xml_buffer fme_type xml_char(50) multi_reader_keyword xml_char(50) fme_basename xml_char(50) citygml_mime_type xml_buffer fme_fill_color xml_char(50) citygml_transformation_matrix xml_buffer citygml_is_front xml_boolean fme_text_string xml_char(50) citygml_theme xml_buffer fme_text_size xml_real64 citygml_target{}.coordinate_list{}.coordinates xml_buffer"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -186,16 +186,20 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE_OR_URL"
 #!   GENERATE_FME_BUILD_NUM="16716"
-#!   MIN_FEATURES=""
-#!   FEATURE_TYPES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   COORDSYS=""
 #!   MAX_FEATURES=""
 #!   START_FEATURE=""
-#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MIN_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a name for the CityGML file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="CityGML file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
@@ -204,10 +208,6 @@
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the CityGML file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="CityGML file"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -223,7 +223,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE="SHAPE_GEOMETRY {FME_GEN_GEOMETRY}"
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="multi_reader_id long fme_fill_color char(50) fme_rotation double fme_basename char(50) fme_start_angle double fme_text_string char(50) fme_dataset char(50) fme_text_size double fme_color char(50) multi_reader_type char(50) multi_reader_keyword char(50) fme_type char(50) SHAPE_GEOMETRY char(50) fme_primary_axis double fme_sweep_angle double fme_secondary_axis double fme_geometry fme_char(50) shape_geometry_error{} char(254) fme_feature_type char(50) shape_measures char(254) multi_reader_full_id long"
+#!   EXPOSABLE_ATTRS="SHAPE_GEOMETRY char(50) fme_start_angle double fme_fill_color char(50) multi_reader_type char(50) fme_type char(50) fme_primary_axis double fme_geometry fme_char(50) fme_feature_type char(50) multi_reader_full_id long multi_reader_id long fme_dataset char(50) fme_secondary_axis double fme_text_size double fme_rotation double fme_sweep_angle double multi_reader_keyword char(50) fme_color char(50) shape_measures char(254) fme_text_string char(50) fme_basename char(50) shape_geometry_error{} char(254)"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES="INDEX"
 #!   ATTR_NAME_INVALID_CHARS=""
@@ -232,16 +232,24 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILEDIR"
 #!   GENERATE_FME_BUILD_NUM="16716"
-#!   MIN_FEATURES=""
-#!   FEATURE_TYPES=""
 #!   MAX_FEATURES_PER_FEATURE_TYPE=""
+#!   COORDSYS=""
 #!   MAX_FEATURES=""
 #!   START_FEATURE=""
-#!   COORDSYS=""
+#!   FEATURE_TYPES=""
+#!   MIN_FEATURES=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a folder for the Esri Shapefile"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
+#!   VALUE="Shapefile1"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="shp file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="FEATURE_TYPE_NAME"
@@ -252,20 +260,12 @@
 #!   VALUE="ESRISHAPE_IN_SEARCH_ENVELOPE_MINX ESRISHAPE_IN_SEARCH_ENVELOPE_MINY ESRISHAPE_IN_SEARCH_ENVELOPE_MAXX ESRISHAPE_IN_SEARCH_ENVELOPE_MAXY ESRISHAPE_IN_CLIP_TO_ENVELOPE SEARCH_ENVELOPE_COORDINATE_SYSTEM ESRISHAPE_IN_SEARCH_ENVELOPE_COORDINATE_SYSTEM"
 #! />
 #! <METAFILE_PARAMETER
-#!   NAME="FEATURE_TYPE_DEFAULT_NAME"
-#!   VALUE="Shapefile1"
-#! />
-#! <METAFILE_PARAMETER
 #!   NAME="DEFAULT_GEOMETRY_TYPE"
 #!   VALUE="shape_first_feature"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the Esri Shapefile(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="shp file"
 #! />
 #! </DATASET>
 #! <DATASET
@@ -281,7 +281,7 @@
 #!   WRITE_DEFS="true"
 #!   DEFLINE_TEMPLATE=""
 #!   DEFLINE_ATTRS="true"
-#!   EXPOSABLE_ATTRS="citygml_wrap_mode xml_char(16) citygml_prefer_world_file xml_boolean citygml_ambient_intensity xml_real64 citygml_transformation_matrix xml_buffer fme_sweep_angle xml_real64 fme_rotation xml_real64 fme_feature_type xml_char(50) fme_fill_color xml_char(50) citygml_library_object xml_buffer fme_basename xml_char(50) citygml_target{}.coordinate_list{}.coordinates xml_buffer citygml_is_front xml_boolean citygml_mime_type xml_buffer citygml_diffuse_color xml_buffer fme_dataset xml_char(50) citygml_image_uri xml_buffer citygml_emissive_color xml_buffer gml_parent_id xml_buffer gml_id xml_buffer fme_secondary_axis xml_real64 citygml_target xml_buffer citygml_orientation_matrix xml_buffer citygml_is_smooth xml_boolean citygml_texture_type xml_char(16) fme_geometry fme_char(50) citygml_lod_name xml_buffer citygml_transparency xml_real64 citygml_border_color xml_buffer fme_type xml_char(50) citygml_target{}.uri xml_buffer fme_text_string xml_char(50) citygml_specular_color xml_buffer citygml_theme xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer citygml_level_of_detail xml_ubyte fme_primary_axis xml_real64 citygml_shininess xml_real64 fme_color xml_char(50) fme_start_angle xml_real64 citygml_target{}.coordinate_list{}.ring xml_buffer fme_text_size xml_real64"
+#!   EXPOSABLE_ATTRS="citygml_transparency xml_real64 gml_id xml_buffer citygml_target{}.world_to_texture_matrix xml_buffer fme_rotation xml_real64 citygml_image_uri xml_buffer citygml_ambient_intensity xml_real64 citygml_target xml_buffer fme_primary_axis xml_real64 citygml_wrap_mode xml_char(16) citygml_target{}.uri xml_buffer citygml_level_of_detail xml_ubyte fme_start_angle xml_real64 citygml_lod_name xml_buffer citygml_texture_type xml_char(16) fme_feature_type xml_char(50) citygml_specular_color xml_buffer gml_parent_id xml_buffer fme_secondary_axis xml_real64 fme_sweep_angle xml_real64 fme_geometry fme_char(50) fme_dataset xml_char(50) citygml_is_smooth xml_boolean citygml_emissive_color xml_buffer citygml_prefer_world_file xml_boolean citygml_diffuse_color xml_buffer citygml_border_color xml_buffer citygml_library_object xml_buffer citygml_orientation_matrix xml_buffer citygml_shininess xml_real64 fme_color xml_char(50) citygml_target{}.coordinate_list{}.ring xml_buffer fme_type xml_char(50) fme_basename xml_char(50) citygml_mime_type xml_buffer fme_fill_color xml_char(50) citygml_transformation_matrix xml_buffer citygml_is_front xml_boolean fme_text_string xml_char(50) citygml_theme xml_buffer fme_text_size xml_real64 citygml_target{}.coordinate_list{}.coordinates xml_buffer"
 #!   DEFLINE_PARMS=""
 #!   ATTR_INDEX_TYPES=""
 #!   ATTR_NAME_INVALID_CHARS="[]=%~!@$&amp;#[^?*&apos;+()\\/&quot;:"
@@ -290,13 +290,17 @@
 #!   DYNAMIC_FEATURE_TYPES_LIST_ON_MERGE="true"
 #!   DATASET_TYPE="FILE_OR_URL"
 #!   GENERATE_FME_BUILD_NUM="16716"
+#!   COORDSYS=""
 #!   FANOUT_EXPRESSION=""
 #!   FANOUT_GROUP="NO"
-#!   COORDSYS=""
 #! >
 #! <METAFILE_PARAMETER
 #!   NAME="WRITER_DATASET_HINT"
 #!   VALUE="Specify a name for the CityGML file"
+#! />
+#! <METAFILE_PARAMETER
+#!   NAME="DATASET_NAME"
+#!   VALUE="CityGML file"
 #! />
 #! <METAFILE_PARAMETER
 #!   NAME="ADVANCED_PARMS"
@@ -305,10 +309,6 @@
 #! <METAFILE_PARAMETER
 #!   NAME="READER_DATASET_HINT"
 #!   VALUE="Select the CityGML file(s)"
-#! />
-#! <METAFILE_PARAMETER
-#!   NAME="DATASET_NAME"
-#!   VALUE="CityGML file"
 #! />
 #! </DATASET>
 #! </DATASETS>
@@ -1600,6 +1600,36 @@
 #! />
 #! </GLOBAL_PARAMETERS>
 #! <COMMENTS>
+#! <COMMENT
+#!   IDENTIFIER="80"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Transform Input data to EPSG:32118&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="743.807 -568.756"
+#!   TOP_LEFT="743.807 -568.756"
+#!   BOTTOM_RIGHT="1493.81 -618.756"
+#!   BOUNDING_RECT="743.807 -568.756 750 50"
+#!   ORDER="5e+14"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   COLOUR="1,1,0.784314,0.196078"
+#!   SIZE_POLICY="10"
+#!   COMMENT_TYPE="REGULAR"
+#!   ANCHORED_NODE="0"
+#! />
+#! <COMMENT
+#!   IDENTIFIER="81"
+#!   COMMENT_VALUE="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Add additional information on bike routes via corresponding attribute &apos;segment_id&apos;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"
+#!   POSITION="3331.28 -1555.01"
+#!   TOP_LEFT="3331.28 -1555.01"
+#!   BOTTOM_RIGHT="4081.28 -1605.01"
+#!   BOUNDING_RECT="3331.28 -1555.01 750 50"
+#!   ORDER="5e+14"
+#!   FOLLOW_ANCHOR="true"
+#!   INFO_NODE="false"
+#!   COLOUR="1,1,0.784314,0.196078"
+#!   SIZE_POLICY="10"
+#!   COMMENT_TYPE="REGULAR"
+#!   ANCHORED_NODE="0"
+#! />
 #! </COMMENTS>
 #! <CONSTANTS>
 #! </CONSTANTS>
@@ -1613,7 +1643,7 @@
 #!   BOUNDING_RECT="-153.127 139 750 2279.65"
 #!   STICKY="true"
 #!   COLOUR="0.847059,0.231373,0.258824"
-#!   CONTENTS="7 35 62 73 67 77 "
+#!   CONTENTS="77 7 35 73 62 67 "
 #! />
 #! <BOOKMARK
 #!   IDENTIFIER="67"
@@ -1668,7 +1698,7 @@
 #!   BOUNDING_RECT="1586.52 139 3341.65 2176.52"
 #!   STICKY="true"
 #!   COLOUR="0.564706,0.027451,0.564706"
-#!   CONTENTS="39 29 75 24 54 49 56 23 16 71 70 42 60 65 64 63 27 30 69 46 32 45 19 20 28 43 33 72 68 31 48 61 22 "
+#!   CONTENTS="65 81 30 72 42 43 22 75 49 69 28 32 68 60 63 54 23 64 45 46 70 20 27 16 33 48 24 71 31 61 39 29 19 56 "
 #! />
 #! </BOOKMARKS>
 #! <TRANSFORMERS>
@@ -1690,18 +1720,18 @@
 #!     <XFORM_ATTR ATTR_NAME="shape_leng" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="sub_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CsmapReprojector"/>
-#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:32118"/>
-#!     <XFORM_PARM PARM_NAME="VERTICAL_HANDLING" PARM_VALUE="Ignore heights and leave them unchanged"/>
-#!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMATION" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
 #!     <XFORM_PARM PARM_NAME="COORDSYS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CsmapReprojector"/>
 #!     <XFORM_PARM PARM_NAME="VERTICAL_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:32118"/>
+#!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
+#!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VERTICAL_HANDLING" PARM_VALUE="Ignore heights and leave them unchanged"/>
 #!     <XFORM_PARM PARM_NAME="GEOID_HEIGHT_GRID" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="4"
@@ -1714,22 +1744,22 @@
 #!   ENABLED="false"
 #!   LAST_PARM_EDIT="16716"
 #! >
-#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
 #!     <XFORM_PARM PARM_NAME="THINNER_MAX_NUM_POINTS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Track"/>
-#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="PEN_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_ROWS" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Track"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_START_ROW" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TACKATTRS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="POINTCLOUD_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="THINNER_INTERVAL" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="AREA_COLOR" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="VECTOR_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_START_COL" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_VISUALIZATION_OPTION" PARM_VALUE="No Reduction"/>
-#!     <XFORM_PARM PARM_NAME="THINNER_TYPE_DISPLAY" PARM_VALUE="No Thinning"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_NUM_COLS" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="8"
@@ -1896,18 +1926,18 @@
 #!     <XFORM_ATTR ATTR_NAME="street_width_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="traffic_direction" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="traffic_direction_source" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CsmapReprojector_2"/>
-#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:32118"/>
-#!     <XFORM_PARM PARM_NAME="VERTICAL_HANDLING" PARM_VALUE="Ignore heights and leave them unchanged"/>
-#!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
-#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMATION" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="RASTER_CELL_SIZE" PARM_VALUE="Preserve Cells"/>
 #!     <XFORM_PARM PARM_NAME="COORDSYS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CsmapReprojector_2"/>
 #!     <XFORM_PARM PARM_NAME="VERTICAL_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DEST" PARM_VALUE="EPSG:32118"/>
+#!     <XFORM_PARM PARM_NAME="INTERPOLATION_TYPE_NAME" PARM_VALUE="Nearest Neighbor"/>
+#!     <XFORM_PARM PARM_NAME="SOURCE" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="VERTICAL_HANDLING" PARM_VALUE="Ignore heights and leave them unchanged"/>
 #!     <XFORM_PARM PARM_NAME="GEOID_HEIGHT_GRID" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="RASTER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="16"
@@ -1934,16 +1964,16 @@
 #!     <XFORM_ATTR ATTR_NAME="shape_leng" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="status" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="sub_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
 #!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; citygml_function&lt;opencurly&gt;0&lt;closecurly&gt; SET_TO 2  citygml_class SET_TO &lt;at&gt;Value&lt;openparen&gt;sub_code&lt;closeparen&gt;  citygml_level_of_detail&lt;opencurly&gt;0&lt;closecurly&gt; SET_TO 0  citygml_target_uri&lt;space&gt; SET_TO http:&lt;solidus&gt;&lt;solidus&gt;www.opengis.net&lt;solidus&gt;citygml&lt;solidus&gt;transportation&lt;solidus&gt;1.0  externalReference&lt;opencurly&gt;0&lt;closecurly&gt;.externalObject.name SET_TO &lt;at&gt;Value&lt;openparen&gt;source_id&lt;closeparen&gt;  externalReference&lt;opencurly&gt;0&lt;closecurly&gt;.informationSystem SET_TO https:&lt;solidus&gt;&lt;solidus&gt;data.cityofnewyork.us&lt;solidus&gt;dataset&lt;solidus&gt;Sidewalk-Centerline&lt;solidus&gt;a9xv-vek9&lt;solidus&gt;data  id SET_TO id_"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; citygml_function&lt;opencurly&gt;0&lt;closecurly&gt; SET_TO 2  citygml_class SET_TO &lt;at&gt;Value&lt;openparen&gt;sub_code&lt;closeparen&gt;  citygml_level_of_detail&lt;opencurly&gt;0&lt;closecurly&gt; SET_TO 0  citygml_target_uri&lt;space&gt; SET_TO http:&lt;solidus&gt;&lt;solidus&gt;www.opengis.net&lt;solidus&gt;citygml&lt;solidus&gt;transportation&lt;solidus&gt;1.0  externalReference&lt;opencurly&gt;0&lt;closecurly&gt;.externalObject.name SET_TO &lt;at&gt;Value&lt;openparen&gt;source_id&lt;closeparen&gt;  externalReference&lt;opencurly&gt;0&lt;closecurly&gt;.informationSystem SET_TO https:&lt;solidus&gt;&lt;solidus&gt;data.cityofnewyork.us&lt;solidus&gt;dataset&lt;solidus&gt;Sidewalk-Centerline&lt;solidus&gt;a9xv-vek9&lt;solidus&gt;data  id SET_TO id_"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="19"
@@ -1987,12 +2017,12 @@
 #!     <XFORM_ATTR ATTR_NAME="sub_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="LengthCalculator"/>
-#!     <XFORM_PARM PARM_NAME="DIM" PARM_VALUE="2"/>
-#!     <XFORM_PARM PARM_NAME="MULT" PARM_VALUE="1"/>
-#!     <XFORM_PARM PARM_NAME="LEN_ATTR" PARM_VALUE="track_length_2D_meter"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="LEN_ATTR" PARM_VALUE="track_length_2D_meter"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="LengthCalculator"/>
+#!     <XFORM_PARM PARM_NAME="MULT" PARM_VALUE="1"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="DIM" PARM_VALUE="2"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="23"
@@ -2015,11 +2045,11 @@
 #!     <XFORM_ATTR ATTR_NAME="externalReference{}.informationSystem" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_uuid,id,status,shape_leng,sub_code,feat_code,source_id"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_uuid,id,status,shape_leng,sub_code,feat_code,source_id"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="22"
@@ -2063,12 +2093,12 @@
 #!     <XFORM_ATTR ATTR_NAME="sub_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="fme_rejection_code" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder"/>
 #!     <XFORM_PARM PARM_NAME="ROUND_TYPE" PARM_VALUE="Nearest"/>
 #!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="track_length_2D_meter"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRounder"/>
-#!     <XFORM_PARM PARM_NAME="PLACES" PARM_VALUE="3"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="24"
@@ -2097,10 +2127,10 @@
 #!     <XFORM_ATTR ATTR_NAME="sub_code" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_uuid" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="UUID_ATTR" PARM_VALUE="_uuid"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="UUIDGenerator"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="28"
@@ -2130,13 +2160,13 @@
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="_uuid" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="StringConcatenator"/>
-#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;id&lt;closeparen&gt;&lt;at&gt;Value&lt;openparen&gt;_uuid&lt;closeparen&gt;"/>
-#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="gml_id"/>
 #!     <XFORM_PARM PARM_NAME="ACTION" PARM_VALUE="Create New Attribute"/>
+#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="VAL_ATTR" PARM_VALUE="gml_id"/>
+#!     <XFORM_PARM PARM_NAME="PARM_LINE" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;id&lt;closeparen&gt;&lt;at&gt;Value&lt;openparen&gt;_uuid&lt;closeparen&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="PARAM_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="30"
@@ -2159,14 +2189,14 @@
 #!     <XFORM_ATTR ATTR_NAME="externalReference{}.informationSystem" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="TREAT_AS_BYTES" PARM_VALUE="Honor Encoding"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeEncoder"/>
-#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
 #!     <XFORM_PARM PARM_NAME="DEST_ENCODING" PARM_VALUE="utf-16"/>
-#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTRS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeEncoder"/>
+#!     <XFORM_PARM PARM_NAME="TREAT_AS_BYTES" PARM_VALUE="Honor Encoding"/>
+#!     <XFORM_PARM PARM_NAME="ATTRCHOICE" PARM_VALUE="All Attributes"/>
+#!     <XFORM_PARM PARM_NAME="ATTRLIST" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="39"
@@ -2514,26 +2544,26 @@
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_onoff" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_dir" IS_USER_CREATED="false" FEAT_INDEX="4" />
 #!     <XFORM_ATTR ATTR_NAME="segment_id" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
+#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;segment_id&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;segment_id&lt;closeparen&gt; AUTO"/>
+#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="SUPPLIER_PREFIX" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="MERGE_TYPE" PARM_VALUE="Attributes Only"/>
-#!     <XFORM_PARM PARM_NAME="CONNECT_Z_MODE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MERGE_COUNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_MODE" PARM_VALUE="Merge Supplier"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="JOIN_ATTRIBUTES_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="JOIN_KEYS" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;segment_id&lt;closeparen&gt; &lt;at&gt;Value&lt;openparen&gt;segment_id&lt;closeparen&gt; AUTO"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="PROCESS_DUPS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureMerger"/>
-#!     <XFORM_PARM PARM_NAME="GENERATE_LIST_GROUP" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="REJECT_NULL_MISSING_KEYS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="IGNORE_NULLS" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="ATTR_ACCUM_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="ATTR_CONFLICT_RES" PARM_VALUE="Use Requestor"/>
+#!     <XFORM_PARM PARM_NAME="SUPPLIERS_FIRST" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="43"
@@ -2587,18 +2617,18 @@
 #!     <XFORM_ATTR ATTR_NAME="tostreet" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="fromstreet" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="onoffst" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeKeeper"/>
-#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fromstreet,tostreet,lanecount,segment_id,onoffst,bikedir"/>
 #!     <XFORM_PARM PARM_NAME="KEEP_LIST" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="KEEP_ATTRS" PARM_VALUE="fromstreet,tostreet,lanecount,segment_id,onoffst,bikedir"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="45"
 #!   TYPE="AttributeRenamer"
 #!   VERSION="4"
-#!   POSITION="2736.53 -1464.38"
-#!   BOUNDING_RECT="2736.53 -1464.38 -1 -1"
+#!   POSITION="2736.53 -1461.25"
+#!   BOUNDING_RECT="2736.53 -1461.25 -1 -1"
 #!   ORDER="5e+14"
 #!   PARMS_EDITED="true"
 #!   ENABLED="true"
@@ -2612,10 +2642,10 @@
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_onoff" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_dir" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="segment_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="lanecount bike_lane RENAME_SET_DEFAULT  fromstreet bike_lane_from RENAME_SET_DEFAULT  tostreet bike_lane_to RENAME_SET_DEFAULT  onoffst bike_lane_onoff RENAME_SET_DEFAULT  bikedir bike_lane_dir RENAME_SET_DEFAULT "/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRenamer"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="54"
@@ -2781,11 +2811,11 @@
 #!     <XFORM_ATTR ATTR_NAME="street_width_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="traffic_direction" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="traffic_direction_source" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_2"/>
-#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_overlaps"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeRemover_2"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRS" PARM_VALUE="_overlaps"/>
+#!     <XFORM_PARM PARM_NAME="LIST_ATTRS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="63"
@@ -2809,10 +2839,10 @@
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_function{0}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="PREFIX" PARM_VALUE="citygml_function"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListPopulator"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="ListPopulator"/>
+#!     <XFORM_PARM PARM_NAME="PREFIX" PARM_VALUE="citygml_function"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="LIST_NAME" PARM_VALUE="citygml_function"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -2839,11 +2869,11 @@
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_function{0}" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="lod0Network"/>
+#!     <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CityGMLGeometrySetter"/>
 #!     <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="CityGMLGeometrySetter"/>
 #!     <XFORM_PARM PARM_NAME="ROLE" PARM_VALUE="cityObjectMember"/>
-#!     <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="lod0Network"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -3015,11 +3045,11 @@
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_to" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_onoff" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_dir" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="lod0Network"/>
+#!     <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="CityGMLGeometrySetter_2"/>
 #!     <XFORM_PARM PARM_NAME="SUB_DOC_NAME" PARM_VALUE="CityGMLGeometrySetter"/>
 #!     <XFORM_PARM PARM_NAME="ROLE" PARM_VALUE="cityObjectMember"/>
-#!     <XFORM_PARM PARM_NAME="__COMPOUND_PARAMETERS" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GEOM" PARM_VALUE="lod0Network"/>
 #!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
@@ -3059,23 +3089,23 @@
 #!     <XFORM_ATTR ATTR_NAME="track_length_2D_meter" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="gml_id" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_function{0}" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="GQUERY_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DOMAIN" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
 #!     <XFORM_PARM PARM_NAME="OVERWRITE_CHOICE" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NAME_PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SCOPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="70"
@@ -3404,23 +3434,23 @@
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_to" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_onoff" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="bike_lane_dir" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter_2"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="GQUERY_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DOMAIN" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
 #!     <XFORM_PARM PARM_NAME="OVERWRITE_CHOICE" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NAME_PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="SCOPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter_2"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
@@ -3696,32 +3726,32 @@
 #! <SUBDOCUMENTS>
 #! <SUBDOCUMENT
 #!   NAME="CityGMLGeometrySetter"
-#!   DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This transformer provides a convenient way to set both the CityGML LOD Name and role from a preset list of options. &lt;/p&gt;&#10;"
-#!   USE_MARKDOWN=""
-#!   LAST_SAVE_DATE=""
-#!   FME_PROCESS_GROUP_BY=""
-#!   PYTHON_COMPATIBILITY=""
-#!   SUPPRESS_UPGRADE="false"
-#!   FME_PROCESS_COUNT="NO_PARALLELISM"
-#!   DOC_EXTENTS="2504.41 231"
-#!   USAGE="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Input Ports&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Input&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Features to tag with City LOD name and feature role &lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Output Ports&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Output&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Features tagged with City LOD name and feature role &lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Parameters&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;CityGML Lod Name&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Select the desired CityGML Lod name&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Feature Role&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Select the desired feature role&lt;/span&gt;&#10;&lt;/p&gt;&#10;"
-#!   FME_PROCESS_GROUPS_ORDERED="No"
-#!   DOC_TOP_LEFT="800.5 -998"
-#!   ZOOM_SCALE="100"
-#!   GUID="107f3bd8-e496-4b13-8069-1de61bf270be"
-#!   MARKDOWN_DESCRIPTION=""
-#!   FME_DOCUMENT_PRIORGUID="d9ebff36-1e4a-4592-8c48-76d032fdb0d5,fd54e366-46d5-47d2-bc2f-fe73d8ccad93"
-#!   CATEGORY="Infrastructure"
-#!   MARKDOWN_USAGE=""
-#!   FMX_ATTRIBUTE_PROPOGATION_MODE="AUTO"
 #!   VIEW_POSITION="-128.126 0"
-#!   LAST_SAVE_BUILD=""
-#!   DOC_DYNAMIC_INPUT_ATTRS="0"
 #!   HISTORY="2013-04-22,Dave&lt;space&gt;Campanas,Initial&lt;space&gt;Creation,2016-05-19,Natalie&lt;space&gt;Wlock,Update&lt;space&gt;for&lt;space&gt;FME&lt;space&gt;2016,2016-06-24,Dave&lt;space&gt;Campanas,Added&lt;space&gt;more&lt;space&gt;roles&lt;space&gt;and&lt;space&gt;Lod&lt;space&gt;names"
+#!   GUID="107f3bd8-e496-4b13-8069-1de61bf270be"
+#!   DOC_EXTENTS="2504.41 231"
 #!   TITLE="CityGMLGeometrySetter"
-#!   IS_VISIBLE="false"
+#!   FME_PROCESS_GROUPS_ORDERED="No"
+#!   USAGE="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Input Ports&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Input&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Features to tag with City LOD name and feature role &lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Output Ports&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Output&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Features tagged with City LOD name and feature role &lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; font-weight:600;&quot;&gt;Parameters&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;CityGML Lod Name&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Select the desired CityGML Lod name&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:10pt;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt; text-decoration: underline;&quot;&gt;Feature Role&lt;/span&gt;&#10;&lt;/p&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;span style=&quot; font-size:10pt;&quot;&gt;Select the desired feature role&lt;/span&gt;&#10;&lt;/p&gt;&#10;"
+#!   CATEGORY="Infrastructure"
+#!   LAST_SAVE_BUILD=""
 #!   FME_DOCUMENT_GUID="107f3bd8-e496-4b13-8069-1de61bf270be"
+#!   PYTHON_COMPATIBILITY=""
 #!   XFORM_DEPRECATED="No"
+#!   FMX_ATTRIBUTE_PROPOGATION_MODE="AUTO"
+#!   LAST_SAVE_DATE=""
+#!   MARKDOWN_DESCRIPTION=""
+#!   DOC_DYNAMIC_INPUT_ATTRS="0"
+#!   DOC_TOP_LEFT="800.5 -998"
+#!   USE_MARKDOWN=""
+#!   FME_DOCUMENT_PRIORGUID="d9ebff36-1e4a-4592-8c48-76d032fdb0d5,fd54e366-46d5-47d2-bc2f-fe73d8ccad93"
+#!   IS_VISIBLE="false"
+#!   SUPPRESS_UPGRADE="false"
+#!   ZOOM_SCALE="100"
+#!   FME_PROCESS_COUNT="NO_PARALLELISM"
+#!   FME_PROCESS_GROUP_BY=""
+#!   MARKDOWN_USAGE=""
+#!   DESCRIPTION="&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This transformer provides a convenient way to set both the CityGML LOD Name and role from a preset list of options. &lt;/p&gt;&#10;"
 #! >
 #! <GLOBAL_PARAMETERS>
 #! <GLOBAL_PARAMETER
@@ -3787,16 +3817,16 @@
 #!     <FEAT_COLLAPSED COLLAPSED="0"/>
 #!     <XFORM_ATTR ATTR_NAME="citygml_lod_name" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_feature_role" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
 #!     <XFORM_PARM PARM_NAME="NUM_PRIOR_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; citygml_lod_name SET_TO $(GEOM)  citygml_feature_role SET_TO $(ROLE)"/>
+#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_VALUE" PARM_VALUE="&lt;Unused&gt;"/>
 #!     <XFORM_PARM PARM_NAME="NULL_ATTR_MODE_DISPLAY" PARM_VALUE="No Substitution"/>
-#!     <XFORM_PARM PARM_NAME="ATTRIBUTE_HANDLING" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
-#!     <XFORM_PARM PARM_NAME="ATTR_TABLE" PARM_VALUE="&quot;&quot; citygml_lod_name SET_TO $(GEOM)  citygml_feature_role SET_TO $(ROLE)"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeCreator"/>
 #!     <XFORM_PARM PARM_NAME="ATTRIBUTE_GRP" PARM_VALUE=""/>
+#!     <XFORM_PARM PARM_NAME="MULTI_FEATURE_MODE" PARM_VALUE="NO"/>
+#!     <XFORM_PARM PARM_NAME="NUM_SUBSEQUENT_FEATURES" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #!   IDENTIFIER="2"
@@ -3817,23 +3847,23 @@
 #!     <FEAT_COLLAPSED COLLAPSED="1"/>
 #!     <XFORM_ATTR ATTR_NAME="citygml_lod_name" IS_USER_CREATED="false" FEAT_INDEX="1" />
 #!     <XFORM_ATTR ATTR_NAME="citygml_feature_role" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
-#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter"/>
+#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="GQUERY_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="DOMAIN" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE="for&lt;space&gt;&lt;dollar&gt;geom&lt;space&gt;in&lt;space&gt;&lt;solidus&gt;&lt;solidus&gt;geometry&lt;lf&gt;where&lt;space&gt;&lt;dollar&gt;geom&lt;solidus&gt;count&lt;openparen&gt;parent::geometry&lt;closeparen&gt;&lt;space&gt;=&lt;space&gt;0&lt;lf&gt;return&lt;space&gt;number&lt;openparen&gt;&lt;dollar&gt;geom&lt;solidus&gt;&lt;at&gt;fme_id&lt;closeparen&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SETTYPE_PARAM" PARM_VALUE="Traits From Attributes"/>
 #!     <XFORM_PARM PARM_NAME="OVERWRITE_CHOICE" PARM_VALUE="Yes"/>
-#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
-#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
-#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #!     <XFORM_PARM PARM_NAME="NAME_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
 #!     <XFORM_PARM PARM_NAME="SCOPE" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="GeometryPropertySetter"/>
+#!     <XFORM_PARM PARM_NAME="REMOVE_ATTRIBUTE" PARM_VALUE="No"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_ATTR_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_OPEN"/>
+#!     <XFORM_PARM PARM_NAME="GQUERY" PARM_VALUE="for&lt;space&gt;&lt;dollar&gt;geom&lt;space&gt;in&lt;space&gt;&lt;solidus&gt;&lt;solidus&gt;geometry&lt;lf&gt;where&lt;space&gt;&lt;dollar&gt;geom&lt;solidus&gt;count&lt;openparen&gt;parent::geometry&lt;closeparen&gt;&lt;space&gt;=&lt;space&gt;0&lt;lf&gt;return&lt;space&gt;number&lt;openparen&gt;&lt;dollar&gt;geom&lt;solidus&gt;&lt;at&gt;fme_id&lt;closeparen&gt;"/>
+#!     <XFORM_PARM PARM_NAME="CNT_ATTR" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="START" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="SRC_ATTRS" PARM_VALUE="citygml_lod_name"/>
+#!     <XFORM_PARM PARM_NAME="GEOM_NAME_FIELD" PARM_VALUE="&lt;Unused&gt;"/>
+#!     <XFORM_PARM PARM_NAME="TRAIT_COUNTER_PARAMETERS_GROUP" PARM_VALUE="FME_DISCLOSURE_CLOSED"/>
+#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <SUBDOCUMENT_IOS>
@@ -4527,10 +4557,10 @@ ESRISHAPE_1_MERGE_DEF ESRISHAPE_1::geo_export_42d3005a-506a-4ab1-8aa6-8e3ba879db
 ESRISHAPE_2_MERGE_DEF ESRISHAPE_2::geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9 EXACT geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "Road (CITYGML_1) Splitter"    INPUT FEATURE_TYPE Road    OUTPUT FEATURE_TYPE Road_CITYGML_1
+FACTORY_DEF * TeeFactory    FACTORY_NAME "geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9 (ESRISHAPE_2) Splitter"    INPUT FEATURE_TYPE geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9    OUTPUT FEATURE_TYPE geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9_ESRISHAPE_2
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME "geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9 (ESRISHAPE_2) Splitter"    INPUT FEATURE_TYPE geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9    OUTPUT FEATURE_TYPE geo_export_a137ae28-0719-40b0-8bd7-bf524c3538f9_ESRISHAPE_2
+FACTORY_DEF * TeeFactory    FACTORY_NAME "Road (CITYGML_1) Splitter"    INPUT FEATURE_TYPE Road    OUTPUT FEATURE_TYPE Road_CITYGML_1
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * TeeFactory    FACTORY_NAME "geo_export_42d3005a-506a-4ab1-8aa6-8e3ba879dbaa (ESRISHAPE_1) Splitter"    INPUT FEATURE_TYPE geo_export_42d3005a-506a-4ab1-8aa6-8e3ba879dbaa    OUTPUT FEATURE_TYPE geo_export_42d3005a-506a-4ab1-8aa6-8e3ba879dbaa_ESRISHAPE_1
@@ -4599,7 +4629,7 @@ MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_GEOM lod0Network
 MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_ROLE cityObjectMember
 DEFAULT_MACRO CityGMLGeometrySetter_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(CityGMLGeometrySetter_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(CityGMLGeometrySetter_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input1496389705 Input Splitter"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input1499094519 Input Splitter"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * AttrSetFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator    INPUT  FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"    MULTI_FEATURE_MODE NO 	 NULL_ATTR_MODE NO_OP 	 ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV 	 ATTR_ACTION "" "citygml_lod_name" "SET_TO" "$($(CityGMLGeometrySetter_WORKSPACE_NAME)_GEOM$encode)"     ATTR_ACTION "" "citygml_feature_role" "SET_TO" "$($(CityGMLGeometrySetter_WORKSPACE_NAME)_ROLE$encode)"    OUTPUT OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator_OUTPUT"
@@ -4608,19 +4638,19 @@ FACTORY_DEF * AttrSetFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_N
 # -------------------------------------------------------------------------
 
 
-Tcl2 proc $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_def3876e_7796_4223_b25e_d4f305b5fb880_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_458ef75f_85f4_4fd3_9361_5dcd785ac80e2_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SRC_ATTRS_EXP ";    foreach attr [split "citygml_lod_name"] { append macroLine ",$attr"; };    puts $macroLine; ]
 FACTORY_DEF * GQueryFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_GQuery    INPUT  FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator_OUTPUT"    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter)"    ACTION SET_TRAITS    PARAMETER yes citygml_lod_name    OUTPUT RESULT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___
 FACTORY_DEF NOT_THIS_TIME TeeFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_AttrRemover    INPUT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___    OUTPUT FEATURE_TYPE *       @RemoveAttributes(fme_encoded"$($(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SRC_ATTRS_EXP)")
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_Outputter    INPUT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___    OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"
 
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output1496389705 Output Collector"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output1499094519 Output Collector"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(CityGMLGeometrySetter_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "CityGMLGeometrySetter Output Output Renamer/Nuker"   INPUT FEATURE_TYPE CityGMLGeometrySetter_Output   OUTPUT FEATURE_TYPE CityGMLGeometrySetter_Output
 # -------------------------------------------------------------------------
 
 
-Tcl2 proc GeometryPropertySetter_d15e0dac_22a9_415f_bb9d_447e9f1ee8550_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_d2036455_c61a_402e_b28c_d93d2c5180601_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_SRC_ATTRS_EXP ";    foreach attr [split "citygml_lod_name"] { append macroLine ",$attr"; };    puts $macroLine; ]
 FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryPropertySetter_GQuery    INPUT  FEATURE_TYPE CityGMLGeometrySetter_Output    ACTION SET_TRAITS    PARAMETER yes citygml_lod_name    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter___RemoveAttrs___
 FACTORY_DEF NOT_THIS_TIME TeeFactory    FACTORY_NAME GeometryPropertySetter_AttrRemover    INPUT FEATURE_TYPE GeometryPropertySetter___RemoveAttrs___    OUTPUT FEATURE_TYPE *       @RemoveAttributes(fme_encoded"$(GeometryPropertySetter_SRC_ATTRS_EXP)")
@@ -4635,9 +4665,9 @@ FACTORY_DEF * TeeFactory    FACTORY_NAME GeometryRemover    INPUT  FEATURE_TYPE 
 
 # -------------------------------------------------------------------------
 
-INCLUDE [    set macroLine "MACRO AttributeKeeper_d8f8f53f_289f_40b6_90cd_b6fee1f51d980_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
+INCLUDE [    set macroLine "MACRO AttributeKeeper_a238ee8d_a2b1_4c91_86da_32344e5a75301_LIST_EXP ";    foreach attr [split ""] {       set attr [FME_DecodeText $attr];       set attr [regsub "{}$" $attr "{}.*"];       set attr [regsub -all "{}" $attr "\\{\[0-9\]+\\}"];       append macroLine ",^$attr$";    };    puts $macroLine; ]
 
-FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE GeometryRemover_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,fromstreet,tostreet,lanecount,segment_id,onoffst,bikedir,fme_pcre_match,"^fme_$(AttributeKeeper_d8f8f53f_289f_40b6_90cd_b6fee1f51d980_LIST_EXP)")
+FACTORY_DEF * TeeFactory    FACTORY_NAME AttributeKeeper    INPUT  FEATURE_TYPE GeometryRemover_OUTPUT    OUTPUT FEATURE_TYPE AttributeKeeper_OUTPUT        @KeepAttributes(fme_encoded,fromstreet,tostreet,lanecount,segment_id,onoffst,bikedir,fme_pcre_match,"^fme_$(AttributeKeeper_a238ee8d_a2b1_4c91_86da_32344e5a75301_LIST_EXP)")
 
 # -------------------------------------------------------------------------
 
@@ -4675,7 +4705,7 @@ MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_GEOM lod0Network
 MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_ROLE cityObjectMember
 DEFAULT_MACRO CityGMLGeometrySetter_WORKSPACE_NAME ""
 INCLUDE [puts {MACRO WB_OLD_CONTEXT_$(CityGMLGeometrySetter_WORKSPACE_NAME) $(WB_CURRENT_CONTEXT)};          puts {MACRO WB_CURRENT_CONTEXT $(CityGMLGeometrySetter_WORKSPACE_NAME)}]
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input1496389705 Input Splitter"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input1499094519 Input Splitter"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * AttrSetFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator    INPUT  FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Input"    MULTI_FEATURE_MODE NO 	 NULL_ATTR_MODE NO_OP 	 ATTRSET_CREATE_DIRECTIVES _PROPAGATE_MISSING_FDIV 	 ATTR_ACTION "" "citygml_lod_name" "SET_TO" "$($(CityGMLGeometrySetter_WORKSPACE_NAME)_GEOM$encode)"     ATTR_ACTION "" "citygml_feature_role" "SET_TO" "$($(CityGMLGeometrySetter_WORKSPACE_NAME)_ROLE$encode)"    OUTPUT OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator_OUTPUT"
@@ -4684,19 +4714,19 @@ FACTORY_DEF * AttrSetFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_N
 # -------------------------------------------------------------------------
 
 
-Tcl2 proc $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_def3876e_7796_4223_b25e_d4f305b5fb881_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_458ef75f_85f4_4fd3_9361_5dcd785ac80e3_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SRC_ATTRS_EXP ";    foreach attr [split "citygml_lod_name"] { append macroLine ",$attr"; };    puts $macroLine; ]
 FACTORY_DEF * GQueryFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_GQuery    INPUT  FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_AttributeCreator_OUTPUT"    GQUERY "@EvaluateExpression(FDIV,STRING_ENCODED,for<space><dollar>geom<space>in<space><solidus><solidus>geometry<lf>where<space><dollar>geom<solidus>count<openparen>parent::geometry<closeparen><space>=<space>0<lf>return<space>number<openparen><dollar>geom<solidus><at>fme_id<closeparen>,$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter)"    ACTION SET_TRAITS    PARAMETER yes citygml_lod_name    OUTPUT RESULT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___
 FACTORY_DEF NOT_THIS_TIME TeeFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_AttrRemover    INPUT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___    OUTPUT FEATURE_TYPE *       @RemoveAttributes(fme_encoded"$($(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SRC_ATTRS_EXP)")
 FACTORY_DEF * TeeFactory    FACTORY_NAME $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_Outputter    INPUT FEATURE_TYPE $(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter___RemoveAttrs___    OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"
 
-FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output1496389705 Output Collector"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output"
+FACTORY_DEF * TeeFactory   FACTORY_NAME "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output1499094519 Output Collector"   INPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_GeometryPropertySetter_SET"   OUTPUT FEATURE_TYPE "$(CityGMLGeometrySetter_WORKSPACE_NAME)_Output"
 INCLUDE [puts {MACRO WB_CURRENT_CONTEXT $(WB_OLD_CONTEXT_$(CityGMLGeometrySetter_WORKSPACE_NAME))}]
 FACTORY_DEF * TeeFactory   FACTORY_NAME "CityGMLGeometrySetter_2 Output Output Renamer/Nuker"   INPUT FEATURE_TYPE CityGMLGeometrySetter_2_Output   OUTPUT FEATURE_TYPE CityGMLGeometrySetter_2_Output
 # -------------------------------------------------------------------------
 
 
-Tcl2 proc GeometryPropertySetter_2_cf2f2760_b1f8_4cff_ac0e_131a13fd44880_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_2_}];       set domainName $xFormName$domainName;    };    return $domainName; }
+Tcl2 proc GeometryPropertySetter_2_bde4093d_c2e9_4aa6_b854_34087fb4dd621_createDomain { in_domainName } {    set domainName $in_domainName;    if { {<Unused>} != {Global} }    {       set xFormName [FME_EncodeText {GeometryPropertySetter_2_}];       set domainName $xFormName$domainName;    };    return $domainName; }
 INCLUDE [    set macroLine "MACRO GeometryPropertySetter_2_SRC_ATTRS_EXP ";    foreach attr [split "citygml_lod_name"] { append macroLine ",$attr"; };    puts $macroLine; ]
 FACTORY_DEF * GQueryFactory    FACTORY_NAME GeometryPropertySetter_2_GQuery    INPUT  FEATURE_TYPE CityGMLGeometrySetter_2_Output    ACTION SET_TRAITS    PARAMETER yes citygml_lod_name    OUTPUT RESULT FEATURE_TYPE GeometryPropertySetter_2___RemoveAttrs___
 FACTORY_DEF NOT_THIS_TIME TeeFactory    FACTORY_NAME GeometryPropertySetter_2_AttrRemover    INPUT FEATURE_TYPE GeometryPropertySetter_2___RemoveAttrs___    OUTPUT FEATURE_TYPE *       @RemoveAttributes(fme_encoded"$(GeometryPropertySetter_2_SRC_ATTRS_EXP)")
