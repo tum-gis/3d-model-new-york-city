@@ -19,7 +19,7 @@ The Workspaces of phase 1 were generated using FME 2014, the workspaces in phase
   This file contains an easy to follow tourguide showing how to create CityGML compliant data from Open Data Shapefiles provided by the New York City Open Data Portal using the Software FME. The data used in this tutorial is also made available with this download.
   
 ## Documentation
-A detailed documentation on how the Workspaces created in project phase 2 is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
+A detailed documentation the Workspaces created in project phase 2 is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
  
 | FME Workspace Nr.   |Short description|
 | :-----------: | :----------------------------------|
