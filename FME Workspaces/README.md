@@ -1,9 +1,5 @@
 # FME Workspaces generated in the course of this project
 
-## Attention 
-The Workspaces of phase 1 were generated using FME 2014, the workspaces in phase 2 were generated using FME 2016.1. Opening the Workspaces in different Versions of FME might lead to errors. 
-  
-## Documentation
 The Workspaces of phase 1 were generated using FME 2014, the workspaces in phase 2 were generated using FME 2016.1. Opening the Workspaces in different Versions of FME might lead to errors. Also linsk to data sources (FME Readers) as well as Output paths (FME Writer )need to be adjusted in order to be able to run these FME Workspaces. The data sources are listed [here](https://wiki.tum.de/display/gisproject/Implementation). As some of these datasets are very large, acutally running these workspaces may take several days (depending on the capacity of your PC). 
  
 | FME Workspace Nr.   |Short description|
