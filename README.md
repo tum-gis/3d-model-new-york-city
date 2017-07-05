@@ -2,12 +2,12 @@
 ## General Information
 In this student project a semantic 3D city model of New York City (NYC) has been created based on datasets provided in the [NYC Open Data Portal](https://opendata.cityofnewyork.us/). Different 3D feature types were derived from existing public 2D and 2.5D datasets using spatial and semantic transformations together with (some) photogrammetric analyses. The resulting 3D city model is represented in a homogenized and integrated way using the international standard [CityGML](https://www.citygml.org/) of the [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/). It comprises all NYC buildings, land parcels, roads, parks, the digital terrain model, and water bodies – all with 3D geometries. To the best of our knowledge it is the first publicly available big 3D city model of a large city in the USA which is based on official governmental data.
 
-All data transformations and manipulations were performed using the ‘[Feature Manipulation Engine’ (FME 2016.1) by Safe Software](https://www.safe.com/). The FME Workbenches created in order to generate this semantic 3D city model are made available in this repository.
+All data transformations and manipulations were performed using the ‘[Feature Manipulation Engine’ by Safe Software](https://www.safe.com/). The FME Workbenches created in order to generate this semantic 3D city model are made available in this repository.
 
 More detailed information can be found on [the project's website](https://www.gis.bgu.tum.de/en/projects/new-york-city-3d/). 
 
 ## Attention 
-The Workspaces were generated using FME 2016.1. Opening the Workspaces in different Versions of FME might lead to errors. 
+The Workspaces of phase 1 were generated using FME 2014, the workspaces in phase 2 were generated using FME 2016.1. Opening the Workspaces in different Versions of FME might lead to errors. 
 
 ## Content
 * **FME Workspaces**
@@ -19,7 +19,7 @@ The Workspaces were generated using FME 2016.1. Opening the Workspaces in differ
   This file contains an easy to follow tourguide showing how to create CityGML compliant data from Open Data Shapefiles provided by the New York City Open Data Portal using the Software FME. The data used in this tutorial is also made available with this download.
   
 ## Documentation
-A detailed documentation on how these Workspaces were used in the course of generating this city model is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
+A detailed documentation on how the Workspaces created in project phase 2 is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
  
 | FME Workspace Nr.   |Short description|
 | :-----------: | :----------------------------------|
