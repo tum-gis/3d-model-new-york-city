@@ -43,4 +43,4 @@ The 3D Web Map Client project using the resulting datasets generated with these 
 
 ## Disclaimer
 
-The Chair of Geoinformatics at the Technical University of Munich provides these FME Workspaces for free usage. No warranties or guarantee on the correctness, completeness, or appropriateness for any specific use is given. In no case TUM / Chair of Geoinformatics can be held liable for damages, caused directly or indirectly, by using or working with these Workspaces or software tools.
+The Chair of Geoinformatics at the Technical University of Munich provides these FME Workspaces for free usage. No warranties or guarantee on the correctness, completeness, or appropriateness for any specific use is given. In no case TUM / Chair of Geoinformatics can be held liable for damages, caused directly or indirectly, by using or working with these Workspaces or software tools. Yup.
