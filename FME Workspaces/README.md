@@ -6,7 +6,7 @@ The data sources are listed [here](https://wiki.tum.de/display/gisproject/Implem
 
 As some of these datasets are very large, actually running these workspaces may take several days (depending on the capacity of your PC).  
 
-A detailed documentation the Workspaces created in project phase 2 is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
+A detailed documentation of the Workspaces created in project phase 2 is provided on the project's [TUM-Wiki](https://wiki.tum.de/display/gisproject/Implementation) section 'Implementation'.
  
 | FME Workspace Nr.   |Short description|
 | :-----------: | :----------------------------------|
